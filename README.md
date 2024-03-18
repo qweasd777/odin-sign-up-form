@@ -1,4 +1,4 @@
-# odin-sign-up-form
+# Odin Sign-up Form
 A simple Sign-up Form made from scratch to familiriase form basics in HTML and CSS, in accordance to [design layout](.png) given. 
 
 ## Screenshots
